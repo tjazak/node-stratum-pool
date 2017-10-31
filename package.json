@@ -15,9 +15,9 @@
         "multipool",
         "multicoin"
     ],
-    "homepage": "https://github.com/nosekefik/node-stratum-pool",
+    "homepage": "https://github.com/tjazak/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/nosekefik/node-stratum-pool/issues"
+        "url": "https://github.com/tjazak/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Daniel Beal",
@@ -31,10 +31,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nosekefik/node-stratum-pool.git"
+        "url": "https://github.com/tjazak/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/nosekefik/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/tjazak/node-multi-hashing.git",
         "bignum": "^0.12.5",
         "base58-native": "^0.1.4",
         "async": "^2.5.0",
