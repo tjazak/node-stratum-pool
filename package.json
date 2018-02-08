@@ -34,7 +34,7 @@
         "url": "https://github.com/tjazak/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/tjazak/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/tjazak/node-multi-hashing.git#issue-183",
         "bignum": "^0.12.5",
         "base58-native": "^0.1.4",
         "async": "^2.5.0",
